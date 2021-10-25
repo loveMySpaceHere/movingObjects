@@ -1,0 +1,53 @@
+/* p {
+    width: 50%;
+    background-color: blueviolet;
+    color:white;
+} */
+
+
+.container {
+    margin: 50px 50px;
+    background-color: grey;
+    height: 200px;
+    width: 50px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.circle {
+    background-color: lightgray;
+    border-radius: 50%;
+    position:relative;
+    height: 40px;
+    width: 40px;
+}
+
+.countDown {
+    margin: 60px;
+}
+
+#timer {
+    background-color: mediumaquamarine;
+    font-size:xx-large;
+    color: white;
+    padding: 20px;
+}
+
+ /*#red {
+    background-color: red;
+    box-shadow: 0 0 20px 5px red;
+}
+
+.circle.yellow {
+    background-color: yellow;
+    box-shadow: 0 0 20px 5px yellow;
+}
+
+.circle.green {
+    background-color: green;
+    box-shadow: 0 0 20px 5px green;
+} */
